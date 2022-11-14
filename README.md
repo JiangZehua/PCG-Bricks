@@ -1,4 +1,4 @@
-# PCG-Bricks: Procedural Conten Generation placing Brick-like objects
+# PCG-Bricks: Procedural Content Generation placing Brick-like objects
 
 This is a toy library for procedurally generating content in the form of brick-like objects. It is based on the [3D PCG Paper](https://arxiv.org/abs/2206.13623) by us, implementing the LEGO ish ideas. This is just a playground for me to write some dirty code and tell myself I can write a new gym environment. Also this is a test bed for weird packages I want to try out. 
 Built on top of previous genius works [gym-pcgrl](https://github.com/amidos2006/gym-pcgrl) and [control-pcgrl](https://github.com/smearle/control-pcgrl).
