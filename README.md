@@ -22,3 +22,6 @@ Built on top of previous genius works [gym-pcgrl](https://github.com/amidos2006/
     ![plot](./images/3D_plot_repre.png)
 
     3.3 During the building, we still can scan over the space sequentially, just punish the floating blocks and don't allow the overlap.
+
+    But seems a little bit verbose when we want to put 2 bricks together? And slub and block type number is a little confusing.
+    ![plot](./images/2_bricks.png)
