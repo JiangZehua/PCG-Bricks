@@ -25,3 +25,10 @@ Built on top of previous genius works [gym-pcgrl](https://github.com/amidos2006/
 
     But seems a little bit verbose when we want to put 2 bricks together? And slub and block type number is a little confusing.
     ![plot](./images/2_bricks.png)
+
+## Render script
+1. recommend to launch blender in terminal so that the python result will be in the terminal
+2. remember to delete the default cube in blender
+3. remember to update the path to the .mpd files, also note that blender need the absolute path to load the mpd files
+4. max sample 500 has good enough result, rememeber to enable the GPU rendering in preference, cycle and GPU compute will be updated in the code
+5. remember to enable the ldraw import options in preference
